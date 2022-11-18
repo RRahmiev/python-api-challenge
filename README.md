@@ -8,7 +8,7 @@ Data's true power is its ability to definitively answer questions. So, let's tak
 
 Now, we know what you may be thinking: “That’s obvious. It gets hotter.” But, if pressed for more information, how would you prove that?
 
-Instructions
+Instructions:
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
 Part 1: WeatherPy
